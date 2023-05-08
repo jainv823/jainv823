@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jainv823
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and Python
+- 👀 I’m interested in Android App Development
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jainv823@gmail.com
 
